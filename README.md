@@ -39,6 +39,6 @@ As tecnologias e ferramentas utlizadas para o desenvolvimento desse projeto fora
 
 ## 📌 Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](). 
+Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/devsamuca/cadastra-produtos/tags). 
 
 By Samuel Souza 🌹
